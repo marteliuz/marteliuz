@@ -1,4 +1,4 @@
-# ¡Hola! Soy Marcelo Ramírez 👋
+# ¡Hola! Soy Marteliuz 👋
 
 **Senior Software Engineer | System Analyst | Technology & Infrastructure Consultant**  
 📍 Santiago, Chile 🇨🇱
