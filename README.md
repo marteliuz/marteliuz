@@ -39,4 +39,4 @@ Me apasiona combinar el desarrollo de software sólido con el mundo físico y de
 
 ## 📬 Contacto
 - 💬 **Ubicación:** Santiago, Chile
-- ✉️ **Email:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
+- ✉️ **Email:** [marteliuz@icloud.com](mailto:marteliuz@icloud.com)
